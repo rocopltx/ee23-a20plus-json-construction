@@ -3,5 +3,5 @@ One-off Python script to prepare the DDR A20PLUS songlist for the Eclipse (nee E
 
 # Setup and Execution
 1. Clone the repo
-2. Create a Python 3.10.6 (near-zero dependencies, so latest version should be ok) virtual environment.
+2. Create a Python 3.10.6 (near-zero dependencies, so latest version should be ok) virtual environment, and launch it.
 3. Run `python main.py` to execute the script.
